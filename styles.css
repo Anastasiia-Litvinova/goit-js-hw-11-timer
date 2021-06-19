@@ -1,0 +1,11 @@
+.timer {
+  display: flex;
+  justify-content: center;
+}
+
+.field {
+  font-size: 30px;
+  margin: 10px;
+  font-style: italic;
+  text-shadow: 1px 1px 2px black, 0 0 1em greenyellow;
+}
